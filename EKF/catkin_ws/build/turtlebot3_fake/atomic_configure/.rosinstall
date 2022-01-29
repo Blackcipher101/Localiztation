@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nehalnevle/Localiztation/EKF/catkin_ws/devel/.private/turtlebot3_fake/setup.sh

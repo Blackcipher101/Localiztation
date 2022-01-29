@@ -1,0 +1,8 @@
+prefix=/home/nehalnevle/Localiztation/EKF/catkin_ws/devel/.private/odom_to_trajectory
+
+Name: odom_to_trajectory
+Description: Description of odom_to_trajectory
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,6 @@
+devel_space: /home/nehalnevle/Localiztation/EKF/catkin_ws/devel
+install: false
+install_space: /home/nehalnevle/Localiztation/EKF/catkin_ws/install
+profile: default
+source_space: /home/nehalnevle/Localiztation/EKF/catkin_ws/src
+workspace: /home/nehalnevle/Localiztation/EKF/catkin_ws

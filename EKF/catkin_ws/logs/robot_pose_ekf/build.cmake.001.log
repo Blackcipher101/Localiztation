@@ -1,0 +1,12 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Checking for module 'orocos-bfl'
+[36m--[0m   No package 'orocos-bfl' found
+[31m[1mCMake Error[0m at /usr/share/cmake-3.16/Modules/FindPkgConfig.cmake:463 (message):
+  A required package was not found
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.16/Modules/FindPkgConfig.cmake:643 (_pkg_check_modules_internal)
+  CMakeLists.txt:6 (pkg_check_modules)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/nehalnevle/Localiztation/EKF/catkin_ws/build/robot_pose_ekf/CMakeFiles/CMakeOutput.log".
