@@ -1,0 +1,2 @@
+udacity_bot
+-DCATKIN_DEVEL_PREFIX=/home/nehalnevle/Localiztation/final_project/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nehalnevle/Localiztation/final_project/catkin_ws/install -G Unix Makefiles
